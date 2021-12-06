@@ -8,7 +8,8 @@ public class FirstJavaClass {
 		int num2=2;
 		
 		System.out.println(num *num2);
-		//hello
+		//heyo
+		
 
 
 		
